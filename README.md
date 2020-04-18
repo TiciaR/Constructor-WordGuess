@@ -1,3 +1,3 @@
 # Constructor-WordGuess
 
-![](Homework-/Constructor-WordGuess/images/wordguess.gif)
+<a imgsrc="wordguess.gif></a>
