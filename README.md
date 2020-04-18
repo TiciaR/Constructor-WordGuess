@@ -1,3 +1,3 @@
 # Constructor-WordGuess
 
-![Alt Text](https://wordguess.gif)
+![Alt Text](images/wordguess.gif.pdf)
