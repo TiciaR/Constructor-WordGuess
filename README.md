@@ -1,3 +1,3 @@
 # Constructor-WordGuess
 
-![](Homework-/Constrcutor-WordGuess/images/wordguess.gif)
+![](Homework-/Constructor-WordGuess/images/wordguess.gif)
